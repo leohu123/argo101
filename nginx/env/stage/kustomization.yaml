@@ -6,4 +6,4 @@ resources:
 namePrefix: leohu123-
 images:
 - name: library/nginx
-  newTag: 1.21.622
+  newTag: 1.21.6
